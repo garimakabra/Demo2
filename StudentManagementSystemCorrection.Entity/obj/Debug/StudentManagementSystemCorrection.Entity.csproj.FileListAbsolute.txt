@@ -1,0 +1,6 @@
+C:\Users\jsk\source\repos\StudentManagementSystemCorrection\StudentManagementSystemCorrection.Entity\bin\Debug\StudentManagementSystemCorrection.Entity.dll
+C:\Users\jsk\source\repos\StudentManagementSystemCorrection\StudentManagementSystemCorrection.Entity\bin\Debug\StudentManagementSystemCorrection.Entity.pdb
+C:\Users\jsk\source\repos\StudentManagementSystemCorrection\StudentManagementSystemCorrection.Entity\obj\Debug\StudentManagementSystemCorrection.Entity.csprojAssemblyReference.cache
+C:\Users\jsk\source\repos\StudentManagementSystemCorrection\StudentManagementSystemCorrection.Entity\obj\Debug\StudentManagementSystemCorrection.Entity.csproj.CoreCompileInputs.cache
+C:\Users\jsk\source\repos\StudentManagementSystemCorrection\StudentManagementSystemCorrection.Entity\obj\Debug\StudentManagementSystemCorrection.Entity.dll
+C:\Users\jsk\source\repos\StudentManagementSystemCorrection\StudentManagementSystemCorrection.Entity\obj\Debug\StudentManagementSystemCorrection.Entity.pdb

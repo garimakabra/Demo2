@@ -1,0 +1,4 @@
+C:\Users\jsk\source\repos\CollegeManagementCorrectionBP\StudentManagementSystemCorrection.Entity\bin\Debug\StudentManagementSystemCorrection.Entity.dll
+C:\Users\jsk\source\repos\CollegeManagementCorrectionBP\StudentManagementSystemCorrection.Entity\bin\Debug\StudentManagementSystemCorrection.Entity.pdb
+C:\Users\jsk\source\repos\CollegeManagementCorrectionBP\StudentManagementSystemCorrection.Entity\obj\Debug\StudentManagementSystemCorrection.Entity.dll
+C:\Users\jsk\source\repos\CollegeManagementCorrectionBP\StudentManagementSystemCorrection.Entity\obj\Debug\StudentManagementSystemCorrection.Entity.pdb
